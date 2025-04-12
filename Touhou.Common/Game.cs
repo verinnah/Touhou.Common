@@ -135,5 +135,9 @@ public enum Game
 	/// <summary>
 	/// Unfinished Dream of All Living Ghost.
 	/// </summary>
-	UDoALG = 19
+	UDoALG = 19,
+	/// <summary>
+	/// Fossilized Wonders
+	/// </summary>
+	FW = 20
 }
